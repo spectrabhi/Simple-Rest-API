@@ -1,0 +1,15 @@
+/target/
+*.iml
+.idea/
+*.log
+*.class
+*.jar
+*.war
+*.db
+.DS_Store
+*.swp
+.env
+docker/mysql-data/
+Dockerfile
+docker-compose.yml
+docker/
